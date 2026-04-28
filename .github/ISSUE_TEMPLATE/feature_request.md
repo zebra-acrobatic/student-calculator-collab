@@ -37,9 +37,3 @@ Describe your approach to implementing this feature.
 ## 📋 Additional Context
 **Screenshots, mockups, or examples**
 Add any other context, screenshots, or examples about the feature request.
-
----
-**Student Information**
-- Name: [Your Name]
-- Student ID: [Your ID]
-- Estimated completion time: [e.g., 2-3 hours]
